@@ -23,6 +23,10 @@ dependencies:
 - base >= 4.7 && < 5
 - text
 - trifecta
+- raw-strings-qq
+- bytestring
+- containers
+- hspec
 
 library:
   source-dirs: src

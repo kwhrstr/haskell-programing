@@ -27,6 +27,10 @@ dependencies:
 - bytestring
 - containers
 - hspec
+- attoparsec
+- parsec
+- aeson
+- scientific
 
 library:
   source-dirs: src

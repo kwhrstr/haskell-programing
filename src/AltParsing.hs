@@ -33,8 +33,8 @@ main = do
 -}
 
 main = do
-  let p f = parseString f mempty
-  print $ p parseNos eitherOr
+  let p f = parseString f mempty eitherOr
+  print $ p (some $ token parseNos)
 
 eitherOr :: String
 eitherOr =[r|

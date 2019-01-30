@@ -1,6 +1,6 @@
 {-# LANGUAGE LambdaCase #-}
 {- This tutorial is Chapter 24-}
-module LearnParsers where
+module Ch24_LearnParsers where
 
 import Text.Trifecta
 

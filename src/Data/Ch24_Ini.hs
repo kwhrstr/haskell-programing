@@ -1,7 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE QuasiQuotes #-}
 {- This tutorial is Chapter 24-}
-module Data.Ini where
+module Data.Ch24_Ini where
 
 import           Control.Applicative
 import           Data.ByteString.Char8 (ByteString)

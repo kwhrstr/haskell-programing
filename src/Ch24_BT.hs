@@ -1,6 +1,6 @@
 {-#  LANGUAGE OverloadedStrings #-}
 {- Chapter 24 Parsec -}
-module BT where
+module Ch24_BT where
 
 import           Control.Applicative
 import qualified Data.Attoparsec.ByteString as A

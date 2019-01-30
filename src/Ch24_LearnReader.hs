@@ -1,4 +1,4 @@
-module LearnReader where
+module Ch24_LearnReader where
 
 import Data.Char
 import GHC.Base

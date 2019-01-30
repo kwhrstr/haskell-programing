@@ -1,6 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 {- This tutorial is Chapter 24-}
-module Text.Fractions where
+module Text.Ch24_Fractions where
 
 import Control.Applicative
 import Data.Ratio ((%))

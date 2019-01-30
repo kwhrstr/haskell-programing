@@ -1,6 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE QuasiQuotes #-}
-module Marshalling where
+module Ch24_Marshalling where
 
 import           Control.Applicative
 import           Data.Aeson

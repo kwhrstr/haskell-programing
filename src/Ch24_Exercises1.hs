@@ -1,5 +1,5 @@
 {-# LANGUAGE OverloadedStrings #-}
-module ExercisesCh24_1 where
+module Ch24_Exercises1 where
 
 import Text.Trifecta
 import Control.Applicative

@@ -1,5 +1,5 @@
 {-# LANGUAGE QuasiQuotes #-}
-module AltParsing where
+module Ch24_AltParsing where
 
 import Control.Applicative
 import Text.Trifecta

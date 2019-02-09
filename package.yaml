@@ -33,6 +33,8 @@ dependencies:
 - scientific
 - transformers
 - scotty
+- random
+- word8
 
 library:
   source-dirs: src

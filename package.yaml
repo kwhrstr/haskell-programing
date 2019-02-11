@@ -35,6 +35,7 @@ dependencies:
 - scotty
 - random
 - word8
+- criterion
 
 library:
   source-dirs: src

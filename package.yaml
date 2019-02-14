@@ -36,6 +36,9 @@ dependencies:
 - random
 - word8
 - criterion
+- vector
+- array
+- primitive
 
 library:
   source-dirs: src

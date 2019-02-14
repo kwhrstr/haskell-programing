@@ -3,3 +3,9 @@ haskell-programing.cabal
 *~
 .idea
 haskell-programing.iml
+*.prof
+app/Ch28_CAF
+*.hi
+app/Ch28_CAF.o
+src/Ch28_Criterion.o
+src/Ch28_profilingTime.o
